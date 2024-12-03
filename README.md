@@ -41,7 +41,7 @@ Here’s what I work with:
 
 ## ✉️ Let's Connect  
 I’m always open to collaboration or just a good chat about tech and anime!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/haqqi-sukmara-ishfahani-000476207/])
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haqqi-sukmara-ishfahani-000476207/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/haqqi.suk/)  
 
 ---
