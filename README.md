@@ -1,6 +1,3 @@
-# Updated content for the README.md file with the user's name
-
-readme_updated_content = """
 # 👋 Welcome to My GitHub!  
 
 Hi, I'm **Haqqi Sukmara Ishfahani**! 🚀  
@@ -37,8 +34,7 @@ Here’s what I work with:
 ---
 
 ## 🌟 Fun Facts  
-- 🎮 I’m a **Discord poker player** in my free time.  
-- 🌐 Big fan of **donghua** like *Quanzhi Gaoshou* and *Spare Me, Great Lord!*.  
+- 🎮 I’m a **Clash Of Clans Player** in my free time.  
 - 🎨 Love creating anime-inspired UI projects!  
 
 ---
@@ -52,12 +48,3 @@ I’m always open to collaboration or just a good chat about tech and anime!
 ---
 
 🌟 Let’s build something amazing together! 🚀  
-"""
-
-# Save the updated content to a markdown file
-updated_file_path = "/mnt/data/README_Haqqi_Sukmara_Ishfahani.md"
-
-with open(updated_file_path, "w") as file:
-    file.write(readme_updated_content)
-
-updated_file_path
