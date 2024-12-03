@@ -1,6 +1,6 @@
-# 👋 Welcome to My GitHub!  
+# 👋 Hi, I'm **Haqqi Sukmara Ishfahani**! 🚀
 
-Hi, I'm **Haqqi Sukmara Ishfahani**! 🚀  
+  
 A **Software Engineer in Training**, passionate about crafting impactful, scalable, and user-friendly applications. My journey in tech is driven by curiosity and a love for problem-solving.  
 
 ---
@@ -41,7 +41,7 @@ Here’s what I work with:
 
 ## ✉️ Let's Connect  
 I’m always open to collaboration or just a good chat about tech and anime!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fatkhurrhn/](https://www.linkedin.com/in/haqqi-sukmara-ishfahani-000476207/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/haqqi-sukmara-ishfahani-000476207/])
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/haqqi.suk/)  
 
 ---
