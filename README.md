@@ -21,7 +21,7 @@ A **Software Engineer in Training**, passionate about crafting impactful, scalab
 ## 🚀 Technologies & Tools  
 Here’s what I work with:  
 - **Languages**: `C++`, `Java`, `PHP` (Laravel, CodeIgniter), `JavaScript` (React, Next.js).  
-- **Frameworks & Libraries**: `Node.js`, `Express`, `Mongoose`.  
+- **Frameworks & Libraries**: `Node.js`, `Express`, `Laravel`, `React`, `NodeJS`.  
 - **Tools**: Git, Vercel, Docker, pnpm.  
 - **Concepts**: RESTful APIs, OOP, ES6, Microservices.  
 
@@ -41,9 +41,8 @@ Here’s what I work with:
 
 ## ✉️ Let's Connect  
 I’m always open to collaboration or just a good chat about tech and anime!  
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- 🌐 Portfolio: [Your Portfolio](#)  
-- 🐦 Twitter: [@YourTwitterHandle](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fatkhurrhn/](https://www.linkedin.com/in/haqqi-sukmara-ishfahani-000476207/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/haqqi.suk/)  
 
 ---
 
